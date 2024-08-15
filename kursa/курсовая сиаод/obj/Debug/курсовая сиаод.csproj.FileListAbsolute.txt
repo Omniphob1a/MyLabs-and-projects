@@ -1,0 +1,10 @@
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая сиаод.csproj.AssemblyReference.cache
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая_сиаод.Form1.resources
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая_сиаод.Properties.Resources.resources
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая сиаод.csproj.GenerateResource.cache
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая сиаод.csproj.CoreCompileInputs.cache
+A:\PCU\Прога\kursa\курсовая сиаод\bin\Debug\курсовая сиаод.exe.config
+A:\PCU\Прога\kursa\курсовая сиаод\bin\Debug\курсовая сиаод.exe
+A:\PCU\Прога\kursa\курсовая сиаод\bin\Debug\курсовая сиаод.pdb
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая сиаод.exe
+A:\PCU\Прога\kursa\курсовая сиаод\obj\Debug\курсовая сиаод.pdb
