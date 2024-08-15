@@ -1,0 +1,20 @@
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.exe.config
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.exe
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.pdb
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.AssemblyReference.cache
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД_22.Form1.resources
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД_22.Properties.Resources.resources
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.GenerateResource.cache
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.CoreCompileInputs.cache
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.exe
+C:\Users\ryaza\source\repos\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.pdb
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.exe.config
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.exe
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\bin\Debug\СиАОД 22.pdb
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.AssemblyReference.cache
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД_22.Form1.resources
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД_22.Properties.Resources.resources
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.GenerateResource.cache
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.csproj.CoreCompileInputs.cache
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.exe
+C:\PSU\СИАОД\СиАОД 22\СиАОД 22\obj\Debug\СиАОД 22.pdb

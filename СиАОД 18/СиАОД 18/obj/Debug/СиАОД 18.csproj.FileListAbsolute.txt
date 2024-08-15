@@ -1,0 +1,21 @@
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.exe.config
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.exe
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.pdb
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.AssemblyReference.cache
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД_18.Form1.resources
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД_18.Properties.Resources.resources
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.GenerateResource.cache
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.CoreCompileInputs.cache
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.exe
+C:\Users\ryaza\source\repos\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.pdb
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.exe.config
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.exe
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\bin\Debug\СиАОД 18.pdb
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.AssemblyReference.cache
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.SuggestedBindingRedirects.cache
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД_18.Form1.resources
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД_18.Properties.Resources.resources
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.GenerateResource.cache
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.csproj.CoreCompileInputs.cache
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.exe
+C:\PSU\СИАОД\СиАОД 18\СиАОД 18\obj\Debug\СиАОД 18.pdb
